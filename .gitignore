@@ -5,3 +5,5 @@ src_sample/
 # !*주차/*.c
 !*주차/assignment.c
 !*주차/hw*.c
+hw*
+!hw*.c
